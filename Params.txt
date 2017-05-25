@@ -1,0 +1,20 @@
+network_length=100
+network_width=100
+nodes=20
+potential_hubs=5
+replications=3
+hub_cost_min=200
+hub_cost_max=400
+disrupt_prob_min=0
+disrupt_prob_max=0.1
+link_density=.5
+load_density=0.5
+clusters=4
+cluster_radius=3
+percent_nodes_in_cluster=0.5
+
+	
+
+=========NEW PARAMETERS==========
+replications
+loads (doesn't necessarily mean there is direct link. Percentage given)
